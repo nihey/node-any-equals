@@ -1,0 +1,28 @@
+{
+  "name": "any-equals",
+  "version": "0.0.0",
+  "description": "Equals comparison for any data-type",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nihey/node-any-equals.git"
+  },
+  "keywords": [
+    "equals",
+    "comparison",
+    "object",
+    "array"
+  ],
+  "author": "Nihey Takizawa <nihey.takizawa@gmail.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/nihey/node-any-equals/issues"
+  },
+  "homepage": "https://github.com/nihey/node-any-equals",
+  "devDependencies": {
+    "eslint": "^1.6.0"
+  }
+}
