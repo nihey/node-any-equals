@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/nihey/node-any-equals",
   "devDependencies": {
-    "eslint": "^1.6.0"
+    "eslint": "^6.5.1"
   }
 }
